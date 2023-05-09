@@ -1,4 +1,4 @@
-#### Old Pad Phone Algorithm
+# Old Pad Phone Algorithm
 
 To implement the Old Pad Phone algorithm, we first define a function with one parameter named "old_phone_pad". In the function, we create a dictionary that maps numbers to characters. We also initialize a list named "result" that will store the function's output.
 
